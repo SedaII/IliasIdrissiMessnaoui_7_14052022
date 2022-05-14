@@ -1,0 +1,6 @@
+[submodule "sn-api"]
+	path = sn-api
+	url = git@github.com:SedaII/sn-api.git
+[submodule "groupomania-sn-app"]
+	path = groupomania-sn-app
+	url = git@github.com:SedaII/groupomania-sn-app.git
